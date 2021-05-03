@@ -7,8 +7,8 @@ En aquesta pràctica es realitzaràn un conjunt de visualitzacions de dades del 
 
 
 
-
 La carpeta **PRACTICA_visualitzacio_de_dades/PRAC 1/** inclou tota la documentació referent a la primera part de la pràctica
  * La carpeta **PRACTICA_visualitzacio_de_dades/PRAC 1/Lahman** conté els 27 arxius de la base de dades original
  * La carpeta **PRACTICA_visualitzacio_de_dades/PRAC 1/Codi** conté el notebook python amb el qual s'ha realitzat la neteja i agrupament de dades
  * La carpeta **PRACTICA_visualitzacio_de_dades/PRAC 1/Baseball_dataset** conté el dataset creat per l'autora com a part d'entrega de la primera part de la pràctica
+ * També s'inclou el .pdf presentat al professor de l'assignatura on hi conté l'explicació dels diferents arxius de la base de dades inicial, la motivació de l'elecció d'aquest conjunt de dades i també 
